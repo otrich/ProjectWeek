@@ -65,7 +65,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu)
 
 ### Vascular/Cardiac
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker, Olga Trichtchenko)
 + [Slicer Mitral Valve](./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
 ### Segmentation
@@ -85,9 +85,6 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Personal Development
 + [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
-
-### Application
-+ [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King)
 
 ## Breakout sessions
 
